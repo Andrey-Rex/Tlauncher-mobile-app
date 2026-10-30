@@ -1,0 +1,14 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="icons">
+<g id="Vector">
+<use xlink:href="#stroke0_0_611" fill="white"/>
+<mask id="stroke1_0_611" fill="white">
+<use xlink:href="#stroke0_0_611"/>
+</mask>
+<path d="M20 4V2H4V4M20 4H4M20 4H22V20H20M20 4V20M4 4H2V20H4M4 4V20M4 20H20M4 20V22H20V20M8 18H6V20H8V18ZM8 18H16M8 18V16H16V18M16 18H18V20H16V18ZM10 12H14M10 12V14H14V12M10 12V8M10 12H8V8H10M14 12H16V8H14M14 12V8M10 8H14M10 8V6H14V8" stroke-width="2" stroke="white" mask="url(#stroke1_0_611)"/>
+</g>
+</g>
+<defs>
+<path id="stroke0_0_611" d="M4 2H20V4H4V2ZM4 20H20V22H4V20ZM2 4H4V20H2V4ZM20 4H22V20H20V4ZM6 18H8V20H6V18ZM16 18H18V20H16V18ZM8 16H16V18H8V16ZM10 12H14V14H10V12ZM8 8H10V12H8V8ZM10 6H14V8H10V6ZM14 8H16V12H14V8Z"/>
+</defs>
+</svg>

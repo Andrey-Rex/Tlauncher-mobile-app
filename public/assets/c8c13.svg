@@ -1,0 +1,15 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#stroke0_0_917" fill="white"/>
+<mask id="stroke1_0_917" fill="white">
+<use xlink:href="#stroke0_0_917"/>
+</mask>
+<path d="M18 2V0H2V2M18 2H2M18 2H20V12H18V2ZM2 2H0V18H2M2 2V18M2 18H12V20H2V18ZM6 16H4V18H6V16ZM6 16H12V14H6V16ZM8 10H12M8 10V12H12V10M8 10V6M8 10H6V6H8M12 10H14V6H12M12 10V6M8 6H12M8 6V4H12V6M16 14H18V20H16V14Z" stroke-width="4" stroke="#FFA726" mask="url(#stroke1_0_917)"/>
+</g>
+<path id="Vector_2" d="M14 16H20V18H14V16Z" fill="#FFA726"/>
+</g>
+<defs>
+<path id="stroke0_0_917" d="M2 0H18V2H2V0ZM2 18H12V20H2V18ZM0 2H2V18H0V2ZM18 2H20V12H18V2ZM4 16H6V18H4V16ZM6 14H12V16H6V14ZM8 10H12V12H8V10ZM6 6H8V10H6V6ZM8 4H12V6H8V4ZM12 6H14V10H12V6ZM16 14H18V20H16V14Z"/>
+</defs>
+</svg>
